@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [gulp-myth (v1.1.0)](https://github.com/sindresorhus/gulp-myth) [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-myth.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-myth) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-myth.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-myth)",
+    "description": "#### basic api documentation for  [gulp-myth (v1.1.0)](https://github.com/sindresorhus/gulp-myth)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-myth.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-myth) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-myth.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-myth)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "gulp-myth": "*",

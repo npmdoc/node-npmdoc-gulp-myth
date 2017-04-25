@@ -1,4 +1,7 @@
-# api documentation for  [gulp-myth (v1.1.0)](https://github.com/sindresorhus/gulp-myth)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-myth.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-myth) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-myth.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-myth)
+# npmdoc-gulp-myth
+
+#### basic api documentation for  [gulp-myth (v1.1.0)](https://github.com/sindresorhus/gulp-myth)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-myth.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-myth) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-myth.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-myth)
+
 #### Myth - Postprocessor that polyfills CSS
 
 [![NPM](https://nodei.co/npm/gulp-myth.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-myth)
@@ -75,7 +78,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
